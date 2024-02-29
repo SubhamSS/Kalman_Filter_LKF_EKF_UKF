@@ -2,7 +2,7 @@
 This project consisits of the source code for a number of different types of Kalman Filters which are used to estimate the navigation state of a 2D vehicle problem; such as that would be found on a self-driving car!
 
 
-![AKFSF-Simulation](/Kalman_Filter_LKF_EKF_UKF/AKFSF-Simulation.gif)
+![AKFSF-Simulation](/Kalman_Filters_LKF_EKF_UKF/AKFSF-Simulation.gif)
 
  ## Setup ##
 
@@ -19,7 +19,7 @@ This project will use the Ubuntu 64 20.04.2.0 LTS VM C++ development environment
  ```
  2. Setup the cmake build
  ```
- cd Kalman_Filter_LKF_EKF_UKF/Kalman_Filter_LKF_EKF_UKF
+ cd Kalman_Filter_LKF_EKF_UKF/Kalman_Filters_LKF_EKF_UKF
  mkdir build
  cd build
  cmake ../
