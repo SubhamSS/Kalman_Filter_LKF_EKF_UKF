@@ -19,7 +19,7 @@ This project will use the Ubuntu 64 20.04.2.0 LTS VM C++ development environment
  ```
  2. Setup the cmake build
  ```
- cd Kalman_Filter_LKF_EKF_UKF
+ cd Kalman_Filter_LKF_EKF_UKF/Kalman_Filter_LKF_EKF_UKF
  mkdir build
  cd build
  cmake ../
